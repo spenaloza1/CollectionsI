@@ -24,6 +24,8 @@ public class Application {
         System.out.println("**************************************FIN DEL EJ3****************************************************");
         //PostingUtils.mostrarFilterSellApartment(RealestateTypeEnum.HOUSE, OperationTypeEnum.RENT);
         PostingUtils.returnPostingWithoutRentandHouse();
+        System.out.println("Hola Mundo");
+        System.out.println("Hola Mundo2");
         System.out.println("**************************************FIN DEL EJ4****************************************************");
     }
 
